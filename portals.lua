@@ -48,7 +48,7 @@ return T{
     -- La Theine Plateau
     [102] = {menuId=222, oi=2},
     -- Konschtat Highlands
-    [108] = {menuId=14, oi=2},
+    [108] = {menuId=926, oi=2},
     -- Tahrongi Canyon
     [117] = {menuId=926, oi=2},
 }
