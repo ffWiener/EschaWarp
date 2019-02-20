@@ -30,7 +30,7 @@ SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 _addon.name = 'EschaWarp'
 _addon.author = 'Wiener'
-_addon.version = '1.1'
+_addon.version = '1.1.1'
 _addon.command = 'ew'
 
 require('tables')
